@@ -10,15 +10,15 @@ The current repository includes the related files for the final project of Featu
 Project content:<br>
 
 -[Overview of Project]<br>
--[Data Cleaning] (https://github.com/yanhmada/nrgy_feng/blob/main/01_Datacleaning.ipynb)
+-[Data Cleaning](https://github.com/yanhmada/nrgy_feng/blob/main/01_Datacleaning.ipynb)
 <br>
 -[EDA, Exploratory Data Analysis & Creating tidy data](https://github.com/yanhmada/nrgy_feng/blob/main/02_EDA.ipynb)
 <br>
 
--[Creating Data Dictionaries] (https://github.com/yanhmada/nrgy_feng/blob/main/Data_Dictionary.ipynb)
--[Data Visualizations] (https://public.tableau.com/app/profile/yan2319)
+-[Creating Data Dictionaries](https://github.com/yanhmada/nrgy_feng/blob/main/Data_Dictionary.ipynb)<br>
+-[Data Visualizations](https://public.tableau.com/app/profile/yan2319)
 
--Additionally, information about this database can be found on this [repository] (link)
+-Additionally, information about this database can be found on this [repository](https://github.com/yanhmada/DSC_Methodologies)<br>
 
 Thank you ✨<br><br>
 
