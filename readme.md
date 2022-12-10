@@ -16,7 +16,7 @@ Project content:<br>
 <br>
 
 -[Creating Data Dictionaries](https://github.com/yanhmada/nrgy_feng/blob/main/Data_Dictionary.ipynb)<br>
--[Data Visualizations](https://public.tableau.com/app/profile/yan2319)
+-[Data Visualizations](https://public.tableau.com/app/profile/yan2319/viz/DemandadeEnerga/Story1?publish=yes)
 
 -Additionally, information about this database can be found on this [repository](https://github.com/yanhmada/DSC_Methodologies)<br>
 
