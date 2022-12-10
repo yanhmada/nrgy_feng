@@ -12,7 +12,7 @@ Project content:<br>
 -[Overview of Project]<br>
 -[Data Cleaning](https://github.com/yanhmada/nrgy_feng/blob/main/01_Datacleaning.ipynb)
 <br>
--[EDA, Exploratory Data Analysis & Creating tidy data](https://github.com/yanhmada/nrgy_feng/blob/main/02_EDA.ipynb)
+-[EDA, Exploratory Data Analysis & Creating tidy data](https://github.com/yanhmada/nrgy_feng/blob/main/02_EDA.ipynb)  ó [Colab](https://colab.research.google.com/drive/1XNeodVahgPxnvoYPTG8Q0mwLfpKZBghM?usp=sharing)
 <br>
 
 -[Creating Data Dictionaries](https://github.com/yanhmada/nrgy_feng/blob/main/Data_Dictionary.ipynb)<br>
